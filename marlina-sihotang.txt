@@ -1,0 +1,7 @@
+Nama: Marlina Sihotang
+
+Role / Job Desk / Work Description:
+Anggota Tim / Programmer
+Bertugas membantu mengembangkan dan mengelola project,
+membuat serta mengedit kode program, dan bekerja sama
+dengan anggota tim menggunakan Git dan GitHub
